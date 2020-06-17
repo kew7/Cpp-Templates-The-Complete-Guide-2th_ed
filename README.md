@@ -4,4 +4,4 @@ David Vandevoorde
 Nicolai M. Josuttis
 Douglas Gregor
 
-![Cover image] (https://images-na.ssl-images-amazon.com/images/I/41AsGkrR+EL._SX258_BO1,204,203,200_.jpg)
+![Cover image](https://images-na.ssl-images-amazon.com/images/I/41AsGkrR+EL._SX258_BO1,204,203,200_.jpg)
